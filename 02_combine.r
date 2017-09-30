@@ -1,4 +1,4 @@
-apple <- c("red", "blue", "yellow", "pink", "green")
+apple = c("red", "blue", "yellow", "pink", "green")
 print(apple)
 print(class(apple))
 

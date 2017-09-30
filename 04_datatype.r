@@ -1,30 +1,30 @@
 # Logical
-v <- TRUE
+v = TRUE
 print(v)
 print(class(v))
 
 # Numeric
-v <- 33.1
+v = 33.1
 print(v)
 print(class(v))
 
 # Integer
-v <- 29L
+v = 29L
 print(v)
 print(class(v))
 
 # Complex
-v <- 2 + 5.1i
+v = 2 + 5.1i
 print(v)
 print(class(v))
 
 # character
-v <- "TRUE"
+v = "TRUE"
 print(v)
 print(class(v))
 
 # raw
-v <- charToRaw("ffr")
+v = charToRaw("ffr")
 print(v)
 print(class(v))
 
