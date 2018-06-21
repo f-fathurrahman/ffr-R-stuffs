@@ -2,6 +2,9 @@
 *.swo
 *~
 
+*.Rout
+
+
 # History files
 .Rhistory
 .Rapp.history
